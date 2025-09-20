@@ -35,8 +35,6 @@ node app
 
 Link url : https://usermanagement-api.vercel.app/
 
-Link dokumentasi swagger : https://usermanagement-api.vercel.app/api-docs
-
 
 #### Endpoint dari API :
 - GET 
